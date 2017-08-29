@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Slovar>
+  <Urok1>
+    <slovo jp="нихон" ru="япония" pr="0" izuch="false" />
+    <slovo jp="нихондзин" ru="японец" pr="0" izuch="false" />
+    <slovo jp="коннитива" ru="здравствуйте" pr="0" izuch="false" />
+    <slovo jp="хадзимэмис.итэ" ru="рад познакомиться" pr="0" izuch="false" />
+    <slovo jp="ватаси" ru="я" pr="0" izuch="false" />
+    <slovo jp="нэко" ru="кот,кошка" pr="0" izuch="false" />
+    <slovo jp="до_дзо ёрос.ику" ru="очень приятно" pr="0" izuch="false" />
+    <slovo jp="намаэ" ru="имя" pr="0" izuch="false" />
+    <slovo jp="о-намаэ" ru="ваше имя" pr="0" izuch="false" />
+    <slovo jp="росиа" ru="россия" pr="0" izuch="false" />
+    <slovo jp="амэрика" ru="америка" pr="0" izuch="false" />
+    <slovo jp="до.ицу" ru="германия" pr="0" izuch="false" />
+    <slovo jp="итариа" ru="италия" pr="0" izuch="false" />
+    <slovo jp="ф.уранцу" ru="франция" pr="0" izuch="false" />
+    <slovo jp="ук.ура.ина" ru="украина" pr="0" izuch="false" />
+    <slovo jp="нихонго" ru="японский язык" pr="0" izuch="false" />
+    <slovo jp="э.иго" ru="английский язык" pr="0" izuch="false" />
+    <slovo jp="коно" ru="этот,эта,это,эти" pr="0" izuch="false" />
+    <slovo jp="соно" ru="тот,та,то,те" pr="0" izuch="false" />
+    <slovo jp="ано" ru="вон тот,вон та,вон то,вон те" pr="0" izuch="false" />
+    <slovo jp="доно" ru="какой из?,который из?" pr="0" izuch="false" />
+    <slovo jp="пэн" ru="ручка" pr="0" izuch="false" />
+    <slovo jp="эмп.ицу" ru="карандаш" pr="0" izuch="false" />
+    <slovo jp="кабан" ru="портфель" pr="0" izuch="false" />
+    <slovo jp="хон" ru="книга" pr="0" izuch="false" />
+    <slovo jp="аой" ru="голубой,зелёный" pr="0" izuch="false" />
+    <slovo jp="акай" ru="красный" pr="0" izuch="false" />
+    <slovo jp="сирой" ru="белый" pr="0" izuch="false" />
+    <slovo jp="курой" ru="чёрный" pr="0" izuch="false" />
+    <slovo jp="киирой" ru="жёлтый" pr="0" izuch="false" />
+    <slovo jp="сэнсэй" ru="учитель" pr="0" izuch="false" />
+    <slovo jp="сэ.ито" ru="ученик" pr="0" izuch="false" />
+    <slovo jp="ий,ёй" ru="хороший" pr="0" izuch="false" />
+    <slovo jp="э" ru="картина" pr="0" izuch="false" />
+    <slovo jp="иэ" ru="дом" pr="0" izuch="false" />
+    <slovo jp="ииэ" ru="нет" pr="0" izuch="false" />
+    <slovo jp="хи" ru="день" pr="0" izuch="false" />
+    <slovo jp="мото" ru="основа,источник" pr="0" izuch="false" />
+    <slovo jp="х.ито" ru="человек" pr="0" izuch="false" />
+	<slovo jp="дэс.у" ru="есть,являюсь" pr="0" izuch="false" />
+  </Urok1>
+  <Urok2>
+    <slovo jp="о-хаё_ годзаимас.у" ru="доброе утро" pr="0" izuch="false" />
+    <slovo jp="о-гэнки дэс.у ка" ru="как дела?" pr="0" izuch="false" />
+    <slovo jp="гэнки" ru="здоровье" pr="0" izuch="false" />
+    <slovo jp="кё_" ru="сегодня" pr="0" izuch="false" />
+    <slovo jp="тэнки" ru="погода" pr="0" izuch="false" />
+    <slovo jp="нэ" ru="не так ли?" pr="0" izuch="false" />
+    <slovo jp="ататакай" ru="тёплый" pr="0" izuch="false" />
+    <slovo jp="дэва" ru="что ж" pr="0" izuch="false" />
+    <slovo jp="хадзимэмасё_" ru="давай начнём" pr="0" izuch="false" />
+    <slovo jp="Ха.и, со_дэс.у" ru="Да это так" pr="0" izuch="false" />
+    <slovo jp="ватаси-но" ru="мой,моя,моё,мои" pr="0" izuch="false" />
+    <slovo jp="аната" ru="вы" pr="0" izuch="false" />
+    <slovo jp="кими" ru="ты" pr="0" izuch="false" />
+    <slovo jp="аната-но" ru="ваш" pr="0" izuch="false" />
+    <slovo jp="кими-но" ru="твой" pr="0" izuch="false" />
+    <slovo jp="томодати" ru="друг,подруга" pr="0" izuch="false" />
+    <slovo jp="оокий" ru="большой" pr="0" izuch="false" />
+    <slovo jp="хана" ru="цветок" pr="0" izuch="false" />
+    <slovo jp="корэ" ru="это" pr="0" izuch="false" />
+    <slovo jp="сорэ" ru="то" pr="0" izuch="false" />
+    <slovo jp="арэ" ru="вон то" pr="0" izuch="false" />
+    <slovo jp="дорэ" ru="который из" pr="0" izuch="false" />
+    <slovo jp="нан" ru="что?" pr="0" izuch="false" />
+    <slovo jp="хана (голова)" ru="нос" pr="0" izuch="false" />
+    <slovo jp="мими" ru="ухо" pr="0" izuch="false" />
+    <slovo jp="као" ru="лицо" pr="0" izuch="false" />
+    <slovo jp="икэ" ru="пруд" pr="0" izuch="false" />
+    <slovo jp="эки" ru="станция" pr="0" izuch="false" />
+    <slovo jp="коэ" ru="голос" pr="0" izuch="false" />
+    <slovo jp="аки" ru="осень" pr="0" izuch="false" />
+    <slovo jp="каго" ru="корзина" pr="0" izuch="false" />
+    <slovo jp="ока" ru="холм" pr="0" izuch="false" />
+    <slovo jp="каги" ru="ключ" pr="0" izuch="false" />
+    <slovo jp="кику" ru="хризантема" pr="0" izuch="false" />
+    <slovo jp="кай" ru="ракушка" pr="0" izuch="false" />
+    <slovo jp="кои" ru="карп" pr="0" izuch="false" />
+    <slovo jp="ки" ru="дерево" pr="0" izuch="false" />
+    <slovo jp="к.ути" ru="рот" pr="0" izuch="false" />
+    <slovo jp="мэ" ru="глаз" pr="0" izuch="false" />
+  </Urok2>
+  <Urok3>
+    <slovo jp="комбанва" ru="добрый вечер" pr="0" izuch="false" />
+    <slovo jp="о-хаири кудасай" ru="заходите пожалуйста" pr="0" izuch="false" />
+    <slovo jp="ирассяй" ru="добро пожаловать" pr="0" izuch="false" />
+    <slovo jp="о-миягэ" ru="подарок" pr="0" izuch="false" />
+    <slovo jp="о-тя" ru="чай" pr="0" izuch="false" />
+    <slovo jp="до_дзо" ru="пожалуйста" pr="0" izuch="false" />
+    <slovo jp="аригато_" ru="спасибо" pr="0" izuch="false" />
+    <slovo jp="до_мо аригато_" ru="большое спасибо" pr="0" izuch="false" />
+    <slovo jp="итадакимас.у" ru="приятного аппетита" pr="0" izuch="false" />
+	<slovo jp="готисо_ сама дес.ита" ru="спасибо за угощенье" pr="0" izuch="false" />
+    <slovo jp="сан" ru="господин,госпожа" pr="0" izuch="false" />
+    <slovo jp="коко" ru="здесь" pr="0" izuch="false" />
+    <slovo jp="соко" ru="там" pr="0" izuch="false" />
+	<slovo jp="асоко" ru="вон там" pr="0" izuch="false" />
+    <slovo jp="доко" ru="где?" pr="0" izuch="false" />
+    <slovo jp="асай" ru="мелкий" pr="0" izuch="false" />
+    <slovo jp="аси" ru="нога" pr="0" izuch="false" />
+	<slovo jp="ису" ru="стул" pr="0" izuch="false" />
+    <slovo jp="усаги" ru="заяц" pr="0" izuch="false" />
+    <slovo jp="уси" ru="корова,бык" pr="0" izuch="false" />
+    <slovo jp="о.исий" ru="вкусный" pr="0" izuch="false" />
+	<slovo jp="окаси" ru="сладости" pr="0" izuch="false" />
+    <slovo jp="каса" ru="зонтик" pr="0" izuch="false" />
+    <slovo jp="кадзоку" ru="семья" pr="0" izuch="false" />
+    <slovo jp="кадзэ" ru="ветер" pr="0" izuch="false" />
+	<slovo jp="к.уса" ru="трава" pr="0" izuch="false" />
+    <slovo jp="кэс.ики" ru="пейзаж" pr="0" izuch="false" />
+    <slovo jp="с.ика" ru="олень" pr="0" izuch="false" />
+    <slovo jp="суси" ru="суси" pr="0" izuch="false" />
+	<slovo jp="дзо_" ru="слон" pr="0" izuch="false" />
+    <slovo jp="аса" ru="утро" pr="0" izuch="false" />
+    <slovo jp="эса" ru="корм" pr="0" izuch="false" />
+    <slovo jp="хаяси" ru="роща,лесок" pr="0" izuch="false" />
+	<slovo jp="яма" ru="гора" pr="0" izuch="false" />
+    <slovo jp="кава" ru="река" pr="0" izuch="false" />
+    <slovo jp="тиисай" ru="маленький" pr="0" izuch="false" />
+  </Urok3>
+  <Urok4>
+    <slovo jp="сясин" ru="фотография" pr="0" izuch="false" />
+    <slovo jp="дарэ" ru="кто?" pr="0" izuch="false" />
+	<slovo jp="а, со_ дэс.у ка" ru="вот как?" pr="0" izuch="false" />
+    <slovo jp="сай" ru="лет" pr="0" izuch="false" />
+    <slovo jp="о-то_-сан" ru="отец" pr="0" izuch="false" />
+    <slovo jp="тити" ru="отец" pr="0" izuch="false" />
+    <slovo jp="о-ка_-сан" ru="мать" pr="0" izuch="false" />
+    <slovo jp="хаха" ru="мать" pr="0" izuch="false" />
+    <slovo jp="о-дзи_-сан" ru="дедушка" pr="0" izuch="false" />
+	<slovo jp="софу" ru="дедушка" pr="0" izuch="false" />
+    <slovo jp="о-ба_-сан" ru="бабушка" pr="0" izuch="false" />
+    <slovo jp="собо" ru="бабушка" pr="0" izuch="false" />
+    <slovo jp="о-ни_-сан" ru="старший брат" pr="0" izuch="false" />
+	<slovo jp="ани" ru="старший брат" pr="0" izuch="false" />
+    <slovo jp="о-нэ_-сан" ru="старшая сестра" pr="0" izuch="false" />
+    <slovo jp="анэ" ru="старшая сестра" pr="0" izuch="false" />
+    <slovo jp="ото_то" ru="младший брат" pr="0" izuch="false" />
+	<slovo jp="имо_то" ru="младшая сестра" pr="0" izuch="false" />
+    <slovo jp="рё_син" ru="родители" pr="0" izuch="false" />
+    <slovo jp="кё_дай" ru="братья и сёстры" pr="0" izuch="false" />
+    <slovo jp="нан нин" ru="сколько человек?" pr="0" izuch="false" />
+	<slovo jp="ити" ru="1" pr="0" izuch="false" />
+    <slovo jp="ни" ru="2" pr="0" izuch="false" />
+    <slovo jp="сан" ru="3" pr="0" izuch="false" />
+    <slovo jp="си, ён" ru="4" pr="0" izuch="false" />
+	<slovo jp="го" ru="5" pr="0" izuch="false" />
+    <slovo jp="року" ru="6" pr="0" izuch="false" />
+    <slovo jp="сити, нана" ru="7" pr="0" izuch="false" />
+    <slovo jp="хати" ru="8" pr="0" izuch="false" />
+	<slovo jp="ку, кю_" ru="9" pr="0" izuch="false" />
+    <slovo jp="дзю_" ru="10" pr="0" izuch="false" />
+    <slovo jp="хяку" ru="100" pr="0" izuch="false" />
+    <slovo jp="сэн" ru="1000" pr="0" izuch="false" />
+	<slovo jp="ман" ru="10000" pr="0" izuch="false" />
+    <slovo jp="к.урас.у" ru="класс" pr="0" izuch="false" />
+    <slovo jp="дзасси" ru="журнал" pr="0" izuch="false" />
+    <slovo jp="сигото" ru="работа" pr="0" izuch="false" />
+	<slovo jp="киттэ" ru="марка" pr="0" izuch="false" />
+    <slovo jp="отоко" ru="мужчина" pr="0" izuch="false" />
+    <slovo jp="ц.укуэ" ru="стол" pr="0" izuch="false" />
+    <slovo jp="тидзу" ru="карта" pr="0" izuch="false" />
+	<slovo jp="такэ" ru="бамбук" pr="0" izuch="false" />
+    <slovo jp="тако" ru="осьминог" pr="0" izuch="false" />
+    <slovo jp="тэ" ru="рука" pr="0" izuch="false" />
+    <slovo jp="гакко_" ru="школа" pr="0" izuch="false" />
+    <slovo jp="токэй" ru="часы" pr="0" izuch="false" />
+    <slovo jp="тоой" ru="далёкий" pr="0" izuch="false" />
+	<slovo jp="уц.укусий" ru="красивый" pr="0" izuch="false" />
+    <slovo jp="т.икай" ru="близкий" pr="0" izuch="false" />
+    <slovo jp="ину" ru="собака" pr="0" izuch="false" />
+    <slovo jp="ц.уки" ru="месяц,луна" pr="0" izuch="false" />
+	<slovo jp="ц.ути" ru="земля" pr="0" izuch="false" />
+    <slovo jp="итигацу" ru="январь" pr="0" izuch="false" />
+    <slovo jp="нигацу" ru="февраль" pr="0" izuch="false" />
+    <slovo jp="сангацу" ru="март" pr="0" izuch="false" />
+    <slovo jp="сигацу" ru="апрель" pr="0" izuch="false" />
+    <slovo jp="гогацу" ru="май" pr="0" izuch="false" />
+	<slovo jp="рокугацу" ru="июнь" pr="0" izuch="false" />
+    <slovo jp="ситигацу" ru="июль" pr="0" izuch="false" />
+    <slovo jp="хатигацу" ru="август" pr="0" izuch="false" />
+    <slovo jp="кугацу" ru="сентябрь" pr="0" izuch="false" />
+	<slovo jp="дзю_гацу" ru="октябрь" pr="0" izuch="false" />
+    <slovo jp="дзю_итигацу" ru="ноябрь" pr="0" izuch="false" />
+    <slovo jp="дзю_нигацу" ru="декабрь" pr="0" izuch="false" />
+	<slovo jp="такай" ru="высокий,дорогой" pr="0" izuch="false" />
+  </Urok4>
+  <Urok5>
+    <slovo jp="тотэмо" ru="очень" pr="0" izuch="false" />
+    <slovo jp="аримас.у" ru="иметься,находиться" pr="0" izuch="false" />
+    <slovo jp="хэя" ru="комната" pr="0" izuch="false" />
+	<slovo jp="има" ru="столовая" pr="0" izuch="false" />
+    <slovo jp="кякума" ru="гостиная" pr="0" izuch="false" />
+    <slovo jp="офуро" ru="ванная" pr="0" izuch="false" />
+    <slovo jp="то.ирэ" ru="туалет" pr="0" izuch="false" />
+	<slovo jp="гэнкан" ru="прихожая" pr="0" izuch="false" />
+    <slovo jp="вас.ицу" ru="комната японская" pr="0" izuch="false" />
+    <slovo jp="ёма" ru="комната еврапейская" pr="0" izuch="false" />
+    <slovo jp="да.идокоро" ru="кухня" pr="0" izuch="false" />
+    <slovo jp="бэранда" ru="веранда" pr="0" izuch="false" />
+    <slovo jp="сэнс.ицу" ru="спальня" pr="0" izuch="false" />
+	<slovo jp="сёсай" ru="кабинет" pr="0" izuch="false" />
+    <slovo jp="нива" ru="сад" pr="0" izuch="false" />
+    <slovo jp="имас.у" ru="иметься,находиться" pr="0" izuch="false" />
+    <slovo jp="нэдзуми" ru="мышь" pr="0" izuch="false" />
+	<slovo jp="кай" ru="этаж" pr="0" izuch="false" />
+    <slovo jp="никай" ru="второй этаж" pr="0" izuch="false" />
+    <slovo jp="иккай" ru="первый этаж" pr="0" izuch="false" />
+    <slovo jp="сакана" ru="рыба" pr="0" izuch="false" />
+    <slovo jp="кани" ru="краб" pr="0" izuch="false" />
+    <slovo jp="куни" ru="страна" pr="0" izuch="false" />
+	<slovo jp="киноко" ru="гриб" pr="0" izuch="false" />
+    <slovo jp="о-канэ" ru="деньги" pr="0" izuch="false" />
+    <slovo jp="они" ru="чёрт" pr="0" izuch="false" />
+    <slovo jp="нацу" ru="лето" pr="0" izuch="false" />
+	<slovo jp="наси" ru="груша" pr="0" izuch="false" />
+    <slovo jp="нагай" ru="длинный" pr="0" izuch="false" />
+    <slovo jp="кино_" ru="вчера" pr="0" izuch="false" />
+    <slovo jp="инака" ru="деревня" pr="0" izuch="false" />
+    <slovo jp="таносий" ru="приятный" pr="0" izuch="false" />
+    <slovo jp="ниой" ru="запах" pr="0" izuch="false" />
+	<slovo jp="насу" ru="баклажан" pr="0" izuch="false" />
+    <slovo jp="нигай" ru="горький" pr="0" izuch="false" />
+    <slovo jp="курума" ru="автомобиль" pr="0" izuch="false" />
+    <slovo jp="та" ru="рисовое поле" pr="0" izuch="false" />
+    <slovo jp="мон, кадо" ru="ворота" pr="0" izuch="false" />
+	<slovo jp="мо" ru="тоже,также" pr="0" izuch="false" />
+	<slovo jp="то, я" ru="и" pr="0" izuch="false" />
+  </Urok5>
+  <Urok6>
+    <slovo jp="так.усан" ru="много" pr="0" izuch="false" />
+	<slovo jp="омосирой" ru="интересный" pr="0" izuch="false" />
+    <slovo jp="амари" ru="(не) очень" pr="0" izuch="false" />
+    <slovo jp="мотто" ru="более" pr="0" izuch="false" />
+    <slovo jp="итибан" ru="самый" pr="0" izuch="false" />
+	<slovo jp="кё_касё" ru="учебник" pr="0" izuch="false" />
+    <slovo jp="кодомо" ru="ребёнок" pr="0" izuch="false" />
+    <slovo jp="хондана" ru="книжная полка" pr="0" izuch="false" />
+    <slovo jp="с.упо_цу" ru="спорт" pr="0" izuch="false" />
+	<slovo jp="тэнису" ru="теннис" pr="0" izuch="false" />
+    <slovo jp="бонсай" ru="маленькое дерево" pr="0" izuch="false" />
+    <slovo jp="с.уки" ru="нравиться,люблю" pr="0" izuch="false" />
+    <slovo jp="да.и с.уки" ru="очень приятно" pr="0" izuch="false" />
+    <slovo jp="су_гаку" ru="математика" pr="0" izuch="false" />
+    <slovo jp="су.иэи" ru="плавание" pr="0" izuch="false" />
+	<slovo jp="хи" ru="огонь" pr="0" izuch="false" />
+    <slovo jp="х.ико_ки" ru="самолёт" pr="0" izuch="false" />
+    <slovo jp="фунэ" ru="лодка,корабль" pr="0" izuch="false" />
+    <slovo jp="киппу" ru="билет" pr="0" izuch="false" />
+	<slovo jp="хэби" ru="змея" pr="0" izuch="false" />
+    <slovo jp="сиппо" ru="хвост" pr="0" izuch="false" />
+    <slovo jp="бута" ru="свинья" pr="0" izuch="false" />
+    <slovo jp="фудэ" ru="кисть" pr="0" izuch="false" />
+    <slovo jp="кабэ" ru="стена" pr="0" izuch="false" />
+    <slovo jp="бэссо_" ru="дача" pr="0" izuch="false" />
+	<slovo jp="хагаки" ru="открытка" pr="0" izuch="false" />
+    <slovo jp="бо_си" ru="шляпа" pr="0" izuch="false" />
+    <slovo jp="х.икуй" ru="низкий" pr="0" izuch="false" />
+    <slovo jp="ф.утой" ru="толстый" pr="0" izuch="false" />
+	<slovo jp="косой" ru="тонкий" pr="0" izuch="false" />
+    <slovo jp="мидзу" ru="вода" pr="0" izuch="false" />
+    <slovo jp="кин" ru="золото" pr="0" izuch="false" />
+  </Urok6>
+  <Urok7>
+    <slovo jp="гэцуё_би" ru="понедельник" pr="0" izuch="false" />
+    <slovo jp="каё_би" ru="вторник" pr="0" izuch="false" />
+    <slovo jp="су.иё_би" ru="среда" pr="0" izuch="false" />
+	<slovo jp="мокуё_би" ru="четверг" pr="0" izuch="false" />
+    <slovo jp="кинё_би" ru="пятница" pr="0" izuch="false" />
+    <slovo jp="доё_би" ru="суббота" pr="0" izuch="false" />
+    <slovo jp="нитиё_би" ru="воскресенье" pr="0" izuch="false" />
+	<slovo jp="консю_" ru="эта неделя" pr="0" izuch="false" />
+    <slovo jp="ра.исю_" ru="следующая неделя" pr="0" izuch="false" />
+    <slovo jp="сэнсю_" ru="прошлая неделя" pr="0" izuch="false" />
+    <slovo jp="ма.исю_" ru="каждая неделя" pr="0" izuch="false" />
+    <slovo jp="ясуми" ru="отдых" pr="0" izuch="false" />
+    <slovo jp="ясуми-но хи" ru="выходной" pr="0" izuch="false" />
+	<slovo jp="иссёни" ru="вместе" pr="0" izuch="false" />
+    <slovo jp="мацури" ru="праздник" pr="0" izuch="false" />
+    <slovo jp="каэримас.у" ru="вернусь" pr="0" izuch="false" />
+    <slovo jp="икимасё_" ru="пойдем" pr="0" izuch="false" />
+	<slovo jp="дзя, дэ ва" ru="что ж" pr="0" izuch="false" />
+    <slovo jp="с.ицурэ.и симас.у" ru="позвольте откланиться" pr="0" izuch="false" />
+    <slovo jp="мата" ru="снова" pr="0" izuch="false" />
+    <slovo jp="мата ас.ита" ru="до завтра" pr="0" izuch="false" />
+    <slovo jp="цу.итати" ru="1 число" pr="0" izuch="false" />
+    <slovo jp="фуц.ука" ru="2 число" pr="0" izuch="false" />
+	<slovo jp="микка" ru="3 число" pr="0" izuch="false" />
+    <slovo jp="ёкка" ru="4 число" pr="0" izuch="false" />
+    <slovo jp="иц.ука" ru="5 число" pr="0" izuch="false" />
+    <slovo jp="му.ика" ru="6 число" pr="0" izuch="false" />
+	<slovo jp="нанока" ru="7 число" pr="0" izuch="false" />
+    <slovo jp="ё_ка" ru="8 число" pr="0" izuch="false" />
+    <slovo jp="коконока" ru="9 число" pr="0" izuch="false" />
+    <slovo jp="тоока" ru="10 число" pr="0" izuch="false" />
+    <slovo jp="дзю_итинити" ru="11 число" pr="0" izuch="false" />
+    <slovo jp="дзю_ёкка" ru="14 число" pr="0" izuch="false" />
+	<slovo jp="хац.ука" ru="20 число" pr="0" izuch="false" />
+    <slovo jp="нидзю_итинити" ru="21 число" pr="0" izuch="false" />
+    <slovo jp="нидзю_ёкка" ru="24 число" pr="0" izuch="false" />
+    <slovo jp="ас.ита" ru="завтра" pr="0" izuch="false" />
+	<slovo jp="асаттэ" ru="послезавтра" pr="0" izuch="false" />
+    <slovo jp="кино_" ru="вчера" pr="0" izuch="false" />
+    <slovo jp="ототой" ru="позавчера" pr="0" izuch="false" />
+    <slovo jp="икимас.у" ru="пойду,поеду" pr="0" izuch="false" />
+    <slovo jp="дэс.ита" ru="был" pr="0" izuch="false" />
+    <slovo jp="ути" ru="дом" pr="0" izuch="false" />
+	<slovo jp="уми" ru="море" pr="0" izuch="false" />
+    <slovo jp="ками" ru="бумага" pr="0" izuch="false" />
+    <slovo jp="камэ" ru="черепаха" pr="0" izuch="false" />
+    <slovo jp="кума" ru="медведь" pr="0" izuch="false" />
+	<slovo jp="кумо" ru="облако" pr="0" izuch="false" />
+    <slovo jp="тэгами" ru="письмо" pr="0" izuch="false" />
+    <slovo jp="мисэ" ru="магазин,лавка" pr="0" izuch="false" />
+    <slovo jp="мити" ru="улица,дорога" pr="0" izuch="false" />
+    <slovo jp="муси" ru="насекомое" pr="0" izuch="false" />
+    <slovo jp="мус.уко" ru="сын" pr="0" izuch="false" />
+	<slovo jp="мус.умэ" ru="дочь" pr="0" izuch="false" />
+    <slovo jp="мэганэ" ru="очки" pr="0" izuch="false" />
+    <slovo jp="момо" ru="персик" pr="0" izuch="false" />
+    <slovo jp="самуй" ru="холодный" pr="0" izuch="false" />
+	<slovo jp="сэмай" ru="тесный,узкий" pr="0" izuch="false" />
+    <slovo jp="цумэтай" ru="студёный" pr="0" izuch="false" />
+    <slovo jp="мидзикай" ru="короткий" pr="0" izuch="false" />
+    <slovo jp="мудзукасий" ru="сложный,трудный" pr="0" izuch="false" />
+    <slovo jp="отоко-но х.ито" ru="мужчина" pr="0" izuch="false" />
+    <slovo jp="онна-но х.ито" ru="женщина" pr="0" izuch="false" />
+	<slovo jp="отоко-но ко" ru="мальчик" pr="0" izuch="false" />
+    <slovo jp="онна-но ко" ru="девочка" pr="0" izuch="false" />
+    <slovo jp="коину" ru="щенок" pr="0" izuch="false" />
+    <slovo jp="дандзё" ru="мужчины и женщины" pr="0" izuch="false" />
+    <slovo jp="май" ru="каждый" pr="0" izuch="false" />
+	<slovo jp="ма.инити" ru="каждый день" pr="0" izuch="false" />
+    <slovo jp="ма.ицуки" ru="каждый месяц" pr="0" izuch="false" />
+    <slovo jp="нэн, тоси" ru="год" pr="0" izuch="false" />
+    <slovo jp="ма.итоси" ru="каждый год" pr="0" izuch="false" />
+  </Urok7>
+  <Urok8>
+    <slovo jp="хон" ru="счётный суффикс для цилиндрических предметов" pr="0" izuch="false" />
+    <slovo jp="хики" ru="счётный суффикс для мелких животных" pr="0" izuch="false" />
+    <slovo jp="то_" ru="счётный суффикс для крупных животных" pr="0" izuch="false" />
+	<slovo jp="май" ru="счётный суффикс для плоских предметов" pr="0" izuch="false" />
+    <slovo jp="дай" ru="счётный суффикс для машин и механизмов" pr="0" izuch="false" />
+    <slovo jp="сацу" ru="счётный суффикс для книг, журналов и т.п." pr="0" izuch="false" />
+    <slovo jp="нансацу" ru="сколько?, (книг, журналов и т.п.)" pr="0" izuch="false" />
+	<slovo jp="кадзоэмасё_" ru="посчитаем" pr="0" izuch="false" />
+    <slovo jp="ва" ru="счётный суффикс для птиц и зайцев" pr="0" izuch="false" />
+    <slovo jp="ися" ru="врач" pr="0" izuch="false" />
+    <slovo jp="бё_ки" ru="болезнь" pr="0" izuch="false" />
+    <slovo jp="юки" ru="снег" pr="0" izuch="false" />
+    <slovo jp="фую" ru="зима" pr="0" izuch="false" />
+	<slovo jp="ясай" ru="овощи" pr="0" izuch="false" />
+    <slovo jp="дзяга.имо" ru="картошка" pr="0" izuch="false" />
+    <slovo jp="дзюгё_" ru="урок" pr="0" izuch="false" />
+    <slovo jp="дзисё" ru="словарь" pr="0" izuch="false" />
+	<slovo jp="яги" ru="козёл,коза" pr="0" izuch="false" />
+    <slovo jp="ясуй" ru="дешёвый" pr="0" izuch="false" />
+    <slovo jp="ясасий" ru="добрый" pr="0" izuch="false" />
+    <slovo jp="хаяй" ru="быстрый" pr="0" izuch="false" />
+    <slovo jp="ка.ися" ru="фирма" pr="0" izuch="false" />
+    <slovo jp="х.итоцу" ru="один предмет" pr="0" izuch="false" />
+	<slovo jp="ф.утацу" ru="два предмета" pr="0" izuch="false" />
+    <slovo jp="миццу" ru="три предмета" pr="0" izuch="false" />
+    <slovo jp="ёццу" ru="четыре  предмета" pr="0" izuch="false" />
+    <slovo jp="ицуцу" ru="пять предметов" pr="0" izuch="false" />
+	<slovo jp="муццу" ru="шесть предметов" pr="0" izuch="false" />
+    <slovo jp="нанацу" ru="семь предметов" pr="0" izuch="false" />
+    <slovo jp="яццу" ru="восемь предметов" pr="0" izuch="false" />
+    <slovo jp="коконоцу" ru="девять предметов" pr="0" izuch="false" />
+    <slovo jp="то_" ru="десять предметов" pr="0" izuch="false" />
+  </Urok8>
+  <Urok9>
+    <slovo jp="моси-моси" ru="алло" pr="0" izuch="false" />
+    <slovo jp="тонари" ru="сосед" pr="0" izuch="false" />
+    <slovo jp="тонари-но" ru="соседний" pr="0" izuch="false" />
+	<slovo jp="сумимасэн" ru="извените" pr="0" izuch="false" />
+    <slovo jp="тётто" ru="немножко" pr="0" izuch="false" />
+    <slovo jp="сицумон" ru="вопрос" pr="0" izuch="false" />
+    <slovo jp="нандзи" ru="сколько времени?" pr="0" izuch="false" />
+	<slovo jp="кара" ru="от,с" pr="0" izuch="false" />
+    <slovo jp="мадэ" ru="до" pr="0" izuch="false" />
+    <slovo jp="горо" ru="примерно" pr="0" izuch="false" />
+    <slovo jp="гурай" ru="примерно" pr="0" izuch="false" />
+    <slovo jp="хадзимаримасу" ru="начинается" pr="0" izuch="false" />
+    <slovo jp="оваримасу" ru="заканчивается" pr="0" izuch="false" />
+	<slovo jp="дэкакэмасу" ru="отправляться" pr="0" izuch="false" />
+    <slovo jp="нан-дэ" ru="на чём?" pr="0" izuch="false" />
+    <slovo jp="дэнся" ru="электричка,поезд" pr="0" izuch="false" />
+    <slovo jp="соситара" ru="если так то" pr="0" izuch="false" />
+	<slovo jp="вакаримасита" ru="понял" pr="0" izuch="false" />
+    <slovo jp="о-ясуми насай" ru="спокойной ночи" pr="0" izuch="false" />
+    <slovo jp="хан" ru="половина" pr="0" izuch="false" />
+    <slovo jp="маэ" ru="перед,до" pr="0" izuch="false" />
+    <slovo jp="кан" ru="промежуток" pr="0" izuch="false" />
+    <slovo jp="годзэн" ru="время до полудня" pr="0" izuch="false" />
+	<slovo jp="гого" ru="время после полудня" pr="0" izuch="false" />
+    <slovo jp="има" ru="сейчас" pr="0" izuch="false" />
+    <slovo jp="киро" ru="километр" pr="0" izuch="false" />
+    <slovo jp="ару.итэ" ru="пешком" pr="0" izuch="false" />
+	<slovo jp="такуси" ru="такси" pr="0" izuch="false" />
+    <slovo jp="басу" ru="автобус" pr="0" izuch="false" />
+    <slovo jp="ромэндэнся" ru="трамвай" pr="0" izuch="false" />
+    <slovo jp="тикатэцу" ru="метро" pr="0" izuch="false" />
+    <slovo jp="дзитэнся" ru="велосипед" pr="0" izuch="false" />
+    <slovo jp="акаруй" ru="светлый" pr="0" izuch="false" />
+	<slovo jp="атарасий" ru="новый" pr="0" izuch="false" />
+    <slovo jp="ари" ru="муравей" pr="0" izuch="false" />
+    <slovo jp="оригами" ru="оригами" pr="0" izuch="false" />
+    <slovo jp="курай" ru="тёмный" pr="0" izuch="false" />
+    <slovo jp="сару" ru="обезьяна" pr="0" izuch="false" />
+    <slovo jp="сора" ru="небо" pr="0" izuch="false" />
+	<slovo jp="цуру" ru="журавль" pr="0" izuch="false" />
+    <slovo jp="тора" ru="тигр" pr="0" izuch="false" />
+    <slovo jp="тори" ru="птица" pr="0" izuch="false" />
+    <slovo jp="хару" ru="весна" pr="0" izuch="false" />
+	<slovo jp="бара" ru="роза" pr="0" izuch="false" />
+    <slovo jp="хирой" ru="просторный" pr="0" izuch="false" />
+    <slovo jp="фуруй" ru="старый" pr="0" izuch="false" />
+    <slovo jp="ёру" ru="ночь,вечер" pr="0" izuch="false" />
+    <slovo jp="рё_ри" ru="кушанье" pr="0" izuch="false" />
+	<slovo jp="дзи" ru="час" pr="0" izuch="false" />
+    <slovo jp="токи" ru="время" pr="0" izuch="false" />
+    <slovo jp="фун" ru="минута" pr="0" izuch="false" />
+    <slovo jp="бу, бун" ru="часть,1%" pr="0" izuch="false" />
+    <slovo jp="вакару" ru="понимать" pr="0" izuch="false" />
+	<slovo jp="итидзиканхан" ru="полтора часа" pr="0" izuch="false" />
+    <slovo jp="а.ида" ru="между" pr="0" izuch="false" />
+    <slovo jp="хантоси" ru="полгода" pr="0" izuch="false" />
+  </Urok9>
+  <Urok10>
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+	<slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+	<slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+	<slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+	<slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+	<slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+	<slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+    <slovo jp="" ru="" pr="0" izuch="false" />
+  </Urok10>
+</Slovar>

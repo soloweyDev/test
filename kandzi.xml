@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Slovar>
+	<Urok1>
+		<kandzi kn="日" jp="хи" ru="день" pr="0" izuch="false" />
+		<kandzi kn="本" jp="хон" ru="книга" pr="0" izuch="false" />
+		<kandzi kn="本" jp="мото" ru="основа,источник" pr="0" izuch="false" />
+		<kandzi kn="人" jp="х.ито" ru="человек" pr="0" izuch="false" />
+		<kandzi kn="人" jp="нин" ru="счётный суффикс" pr="0" izuch="false" />
+		<kandzi kn="人" jp="дзин" ru="суффикс национальности" pr="0" izuch="false" />
+		<kandzi kn="日本" jp="нихон" ru="япония" pr="0" izuch="false" />
+		<kandzi kn="日本人" jp="нихондзин" ru="японец" pr="0" izuch="false" />
+		<kandzi kn="木" jp="ки" ru="дерево" pr="0" izuch="false" />
+		<kandzi kn="口" jp="к.ути" ru="рот" pr="0" izuch="false" />
+		<kandzi kn="目" jp="мэ" ru="глаз" pr="0" izuch="false" />
+		<kandzi kn="林" jp="хаяси" ru="роща,лесок" pr="0" izuch="false" />
+		<kandzi kn="山" jp="яма" ru="гора" pr="0" izuch="false" />
+		<kandzi kn="川" jp="кава" ru="река" pr="0" izuch="false" />
+		<kandzi kn="大きい" jp="оокий" ru="большой" pr="0" izuch="false" />
+		<kandzi kn="小さい" jp="тиисай" ru="маленький" pr="0" izuch="false" />
+		<kandzi kn="犬" jp="ину" ru="собака" pr="0" izuch="false" />
+		<kandzi kn="月" jp="ц.уки" ru="месяц,луна" pr="0" izuch="false" />
+		<kandzi kn="土" jp="ц.ути" ru="земля" pr="0" izuch="false" />
+		<kandzi kn="父" jp="тити" ru="отец" pr="0" izuch="false" />
+		<kandzi kn="母" jp="хаха" ru="мать" pr="0" izuch="false" />
+		<kandzi kn="車" jp="курума" ru="автомобиль" pr="0" izuch="false" />
+		<kandzi kn="田" jp="та" ru="рисовое поле" pr="0" izuch="false" />
+		<kandzi kn="門" jp="мон, кадо" ru="ворота" pr="0" izuch="false" />
+		<kandzi kn="白い" jp="сирой" ru="белый" pr="0" izuch="false" />
+		<kandzi kn="赤い" jp="акай" ru="красный" pr="0" izuch="false" />
+	</Urok1>
+	<Urok2>
+		<kandzi kn="水" jp="мидзу" ru="вода" pr="0" izuch="false" />
+		<kandzi kn="火" jp="хи" ru="огонь" pr="0" izuch="false" />
+		<kandzi kn="金" jp="канэ" ru="деньги" pr="0" izuch="false" />
+		<kandzi kn="黒い" jp="курой" ru="чёрный" pr="0" izuch="false" />
+		<kandzi kn="青い" jp="аой" ru="синий,голубой,зеленый" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+	</Urok2>
+	<Urok3>
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+		<kandzi kn="" jp="" ru="" pr="0" izuch="false" />
+	</Urok3>
+</Slovar>
